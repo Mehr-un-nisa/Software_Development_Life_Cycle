@@ -1,7 +1,7 @@
 # Software Development Life Cycle
 
 <h2> SDLC </h2>
-<p> It is basically a step-by-step process used by people in the organization/company to make quality peoduct.
+<p> It is basically a step-by-step process used by people in the organization/company to make the quality peoduct.
   The phases of SDLC are: 
   <li> Requirement gathering </li> 
   <li>  Design </li>  
