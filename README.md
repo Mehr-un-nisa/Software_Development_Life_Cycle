@@ -3,8 +3,8 @@
 <h2> SDLC </h2>
 <p> It is basically a step-by-step process used by people in the organization/company to make the quality peoduct.
   The phases of SDLC are: 
-  <li> Requirement gathering </li> 
-  <li>  Design phase </li>  
+  <li> Requirement Gathering </li> 
+  <li>  Design Phase </li>  
   <li> Development </li>  
   <li> Testing </li>  
   <li> Maintenance </li> 
